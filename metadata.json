@@ -1,0 +1,7 @@
+{
+  "name": "Floppa Haven: The Caracal Pet Shop",
+  "description": "Manage your very own pet shop exclusively selling adorable Caracals, also known as Floppas. Work hard, socialize your floppas, and use AI to grow your feline empire!",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
